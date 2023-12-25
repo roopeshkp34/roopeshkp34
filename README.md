@@ -21,13 +21,33 @@ me.say_hi()
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript
-- **Web Frameworks:** Django, Flask, FastAPI
-- **Database:** MySQL, PostgreSQL
-- **Testing:** Pytest, Selenium
-- **Web Development:** HTML, CSS
-- **Tools:** Git, Docker
-- **Cloud:** AWS (Amazon Web Services)
+**Programing Languages:**
+
+![Python](https://img.shields.io/badge/code-python-blue?logo=python)  ![JavaScript](https://img.shields.io/badge/code-javascript-blue?logo=Javascript)
+
+**Web Frameworks:**
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+**Database:** 
+
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Database-Postgres-blue?logo=PostgreSQL&logoColor=white)
+
+**Testing:**
+
+![Pytest](https://img.shields.io/badge/Testing-Pytest-blue?logo=Pytest&logoColor=white) ![Selenium](https://img.shields.io/badge/Testing-Selenium-blue?logo=Selenium&logoColor=white)
+
+**Web Development:**
+
+![HTML](https://img.shields.io/badge/web-HTML5-blue?logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/web-CSS3-blue?logo=CSS3&logoColor=white)
+
+**Tools:**
+
+![Git](https://img.shields.io/badge/Tools-Git-blue?logo=Git&logoColor=white) ![Docker](https://img.shields.io/badge/Tools-Docker-blue?logo=Docker&logoColor=white)
+
+**Cloud:** 
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-blue?logo=amazon-aws&logoColor=white)
 
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
