@@ -1,8 +1,23 @@
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-# Hello, I'm Roopesh 🐍
 
-Welcome to my GitHub profile! I'm a passionate Python developer with a love for creating robust and efficient software solutions. Here, you'll find a collection of projects that showcase my skills, interests, and the variety of challenges I enjoy tackling.
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Roopesh KP"
+        self.role = "Python Developer"
+        self.language_spoken = ["zh_CN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 ## 🔧 Technologies & Tools
 
