@@ -14,6 +14,19 @@ Welcome to my GitHub profile! I'm a passionate Python developer with a love for 
 - **Tools:** Git, Docker
 - **Cloud:** AWS (Amazon Web Services)
 
+📊 **This week I spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+Python       12 hrs 49 mins  ███████████████████████▒░   93.17 %
+JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+```
+
+<!--END_SECTION:waka-->
+
 <!--## 🚀 Projects
 
 ### [Project Name 1](Link to Project 1)
