@@ -9,7 +9,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Roopesh KP"
         self.role = "Python Developer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.language_spoken = ["ml_IN", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
