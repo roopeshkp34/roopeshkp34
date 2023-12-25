@@ -31,7 +31,7 @@ I'm always excited to learn new technologies and improve my skills. Currently, I
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
+- [LinkedIn: ](https://www.linkedin.com/in/roopesh-kp-b1a1531b2/)
 <!--- Twitter: [@YourTwitterHandle](Link to Twitter)
 - Portfolio: [Your Portfolio Website](Link to Portfolio) -->
 
