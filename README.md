@@ -23,7 +23,7 @@ me.say_hi()
 
 **Programing Languages:**
 
-![Python](https://img.shields.io/badge/Code-python-blue?logo=python)  ![JavaScript](https://img.shields.io/badge/Code-javascript-blue?logo=Javascript)
+![Python](https://img.shields.io/badge/Code-python-blue?logo=python)  ![JavaScript](https://img.shields.io/badge/Code-javascript-blue?logo=Javascript) ![Go](https://img.shields.io/badge/Code-go-blue?logo=go)
 
 **Web Frameworks:**
 
